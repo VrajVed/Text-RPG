@@ -1,7 +1,7 @@
 import random
 import os
 
-
+#Families define where you will be born
 families = ['Noble','Mage','Merchant',]
 print("---------------------------")
 print("Teacher: Welcome, dear adventurer... To the wonderful world of Elaria!")
